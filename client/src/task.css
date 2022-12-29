@@ -1,0 +1,8 @@
+.todolist{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    border: 1px solid rgb(255, 255, 255);
+    margin-bottom: 10px !important;
+}
